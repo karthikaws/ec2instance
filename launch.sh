@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo"script is been implemented"
+echo "script is under implementation"
